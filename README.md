@@ -1,0 +1,1 @@
+Data for https://github.com/JuliaOpt/Convex.jl/issues/254.
